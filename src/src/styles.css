@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');
+
+:root {
+  --cor-primaria: #358C84;
+  --cor-secundaria: #2D435A;
+  --cor-terciaria: #0C1125;
+
+  --cor-branco-1: #EBF2F2;
+  --cor-branco-2: #F2F2F2;
+  --cor-preto-1: #0D0D0D;
+
+  --cor-complementar-1: #0B1226;
+  --cor-complementar-2: #124040;
+  --cor-complementar-3: #8F99A6;
+  --cor-complementar-4: #2C4459;
+  --cor-complementar-5: #4ED9CB;
+  --cor-complementar-6: #41B3BF;
+
+  --gradiente-1: linear-gradient(90deg, #0F302D 3.14%, #1F575C 46%, #16303F 94.57%);
+  --gradiente-2: radial-gradient(124.76% 125.88% at 6.91% 7.33%, #0E232E 0%, #1F5955 62.48%, #153E42 100%);
+  --gradiente-3: radial-gradient(125.24% 120.42% at 15.79% 11.73%, #0A1E28 0%, #083633 44.79%, #11383C 100%);
+  --gradiente-4: linear-gradient(90deg, #0D1F26 2.5%, #1F494C 50.68%, #122432 99.87%);
+  --gradiente-5: linear-gradient(180deg, #358C84 0%, #2D435A 100%);
+  --gradiente-6: linear-gradient(180deg, #37DFE1 0%, #2D435A 100%);
+  --gradiente-7: radial-gradient(132.23% 133.57% at 4.28% 4.23%, #0C3347 0%, #236478 59.89%, #153E42 100%);
+
+  font-family: 'Open Sans', sans-serif;
+}
