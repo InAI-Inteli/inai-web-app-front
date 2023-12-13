@@ -1,0 +1,30 @@
+.primaryContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 30vh;
+	padding: 1rem 0.5rem;
+	background: linear-gradient(0deg, rgba(65, 183, 191, 0.13) 3.96%, rgba(18, 36, 50, 0.10) 73.12%);
+}
+
+
+.title {
+	color: var(--cor-branco-1);
+	font-size: 3.75rem;
+	text-shadow: 2px 2px 2px rgba(91, 131, 134, 0.336);
+	text-align: center;
+  }
+
+  .subtitle {
+	color: var(--cor-branco-1);
+	margin-top: 0.7rem;
+	font-size: 1.5rem;
+	text-shadow: 1px 1px 1px rgba(65, 183, 191, 0.13);
+	text-align: center;
+  }
+
+  .highlight {
+	color: var(--cor-complementar-6);
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.123);
+  }
